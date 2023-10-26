@@ -81,7 +81,7 @@ class _ProfileState extends State<Profile> {
                             Text(
                               "Yuji",
                               style:
-                                  TextStyle(color: Colors.white, fontSize: 25),
+                              TextStyle(color: Colors.white, fontSize: 25),
                             ),
                             Text("Online",
                                 style: TextStyle(
